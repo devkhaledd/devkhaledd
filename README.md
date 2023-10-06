@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working  as ... Web & Mobile App developer<br>👯 I’m looking to collaborate with ... Any developer<br>🤝 I’m looking for help with ... Appointment_with_company<br>🌱 I’m currently learning ... React.js, React Native<br>💬 Ask me about ... React, React Native<br>⚡ Fun fact ... Coding is Fun
+🔭 I’m currently working  at ... egv  as a Full Stack Developer<br>👯 I’m looking to collaborate with ... Developers who are passionate about innovative solutions and bringing ideas to life.<br>🤝 I’m looking for help with ... integrating third-party APIs into React apps<br>🌱  I’m currently expanding my expertise in ... NextJs, React.js, React Native<br>💬 Ask me about ... Any challenges you face in Full Stack Development.<br>⚡ Fun fact ... Coding is Fun
 
 
 ## 🌐 Socials:
